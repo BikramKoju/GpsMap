@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "7408564564",
+    "firebase_url": "https://gpsmap-8ca47.firebaseio.com",
+    "project_id": "gpsmap-8ca47",
+    "storage_bucket": "gpsmap-8ca47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7408564564:android:d2622c5d5e524228",
+        "android_client_info": {
+          "package_name": "org.impactit.gpsmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7408564564-vkhogkudgjb4qr9eu9cet681o5mjhaja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.impactit.gpsmap",
+            "certificate_hash": "efe47ada29aae13f13e70b73d20840297e42fda8"
+          }
+        },
+        {
+          "client_id": "7408564564-5desj009g1cu7vrekspmouqd9sgvr9s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpL2OrHP1yShJL0lfQJ4GY4yqOAaNJfsg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7408564564-5desj009g1cu7vrekspmouqd9sgvr9s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
